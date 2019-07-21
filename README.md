@@ -8,4 +8,4 @@
 ## TODOS
 
 - [x] Finish 'Chapter01 Basement'
-- [] Finish Chapter02 
+- [ ] Finish Chapter02 
