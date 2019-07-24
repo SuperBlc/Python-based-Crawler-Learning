@@ -24,6 +24,7 @@
 - redis 3.2.1
 
 安装以上库：
+
 ```Python
 pip install -r requirement.txt
 ```
