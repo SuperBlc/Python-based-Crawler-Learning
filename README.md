@@ -17,8 +17,16 @@
 - requests 2.13.0
 - selenium 3.3.1
 - lxml 3.7.3
+- pyquery 1.4.0
 - beautifulsoap4 4.5.3
 - PyMySQL 0.9.3
+- pymongo 3.8.0
+- redis 3.2.1
+
+安装以上库：
+```Python
+pip install -r requirement.txt
+```
 
 ## Needed packages and lib
 
