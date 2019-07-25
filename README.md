@@ -7,13 +7,13 @@
 
 ## TODOS
 
-- [x] Finish 'Chapter01 Basement'
-- [ ] Finish 'Chapter02 Fundamental of urlib'
-- [ ] Finish 'Chapter03 fundamental of requests'
+- [x] Finish 'Chapter01-Fundamental-of-crewler'
+- [x] Finish 'Chapter02-Fundamental-of-urlib'
+- [ ] Finish 'Chapter03-Fundamental-of-requests'
 
 ## Environment
 
-- Python 3.6.1
+- Python 3.6
 - requests 2.13.0
 - selenium 3.3.1
 - lxml 3.7.3
