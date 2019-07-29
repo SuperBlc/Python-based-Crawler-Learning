@@ -41,7 +41,7 @@ PS: d-->direcotry, f-->file(*.ipynb)
 - redis 3.2.1
 - jupyterlab
 
-安装以上库：
+复制以下命令，一键安装所需库：
 
 ```bash
 pip install -r requirement.txt
