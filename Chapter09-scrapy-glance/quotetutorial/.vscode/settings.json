@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "D:\\Miniconda\\envs\\web-bug\\python.exe",
+    "python.linting.flake8Enabled": true
+}
