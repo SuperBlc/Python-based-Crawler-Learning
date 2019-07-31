@@ -26,7 +26,8 @@ PS: d-->direcotry, f-->file(*.ipynb)
 - [x] Finish ['Chapter04-Fundamental-of-regular-expression'](./Chapter04-Fundamental-of-regular-expression)
 - [x] Finish ['Chapter05-Fundamental-of-beautifulsoup'](./)
 - [x] Finish ['Chapter06-Fundamental-of-pyquery'](./Chapter06-Fundamental-of-pyquery.ipynb)
-- [ ] Finish ['Chapter07-Fundamental-of-selenium'](./Chapter07-Fundamental-of-selenium.ipynb)
+- [x] Finish ['Chapter07-Fundamental-of-selenium'](./Chapter07-Fundamental-of-selenium.ipynb)
+- [x] Finish [小练习：用requests和正则表达式提取猫眼top100榜单数据](./Chapter08-Exercise-of-requests-and-re.ipynb)
   
 ## Environment(软件环境)
 
