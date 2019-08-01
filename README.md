@@ -27,8 +27,13 @@ PS: d-->direcotry, f-->file(*.ipynb)
 - [x] Finish ['Chapter05-Fundamental-of-beautifulsoup'](./)
 - [x] Finish ['Chapter06-Fundamental-of-pyquery'](./Chapter06-Fundamental-of-pyquery.ipynb)
 - [x] Finish ['Chapter07-Fundamental-of-selenium'](./Chapter07-Fundamental-of-selenium.ipynb)
-- [x] Finish [小练习：用requests和正则表达式提取猫眼top100榜单数据](./Chapter08-Exercise-of-requests-and-re.ipynb)
-  
+- [x] Finish [小练习01：用requests和正则表达式提取猫眼top100榜单数据](./Chapter08-01-Exercise-of-requests-and-re.ipynb)
+- [ ] Finish [小练习02：分析Ajax请求并抓取数据（以toutiao.comw为例）](./Chapter08-02-Exercise-of-getting-data-from-ajax.ipynb)
+- [ ] Finish [小练习03：使用Selenium模拟浏览器抓取数据（以jd.com为例）](./Chapter08-03-Exercise-of-selenium.ipynb)
+- [x] Finish ['Chapter09-processing-of-scrapy'](./Chapter09-scrapy-glance/note/processing-of-scrapy.md)
+- [ ] Finish ['Chapter09-commandline-of-scrapy'](./Chapter09-scrapy-glance/note/command-line-tool.md)
+
+
 ## Environment(软件环境)
 
 - Python 3.6
@@ -40,6 +45,7 @@ PS: d-->direcotry, f-->file(*.ipynb)
 - PyMySQL 0.9.3
 - pymongo 3.8.0
 - redis 3.2.1
+- scrapy
 - jupyterlab
 
 复制以下命令，一键安装所需库：
