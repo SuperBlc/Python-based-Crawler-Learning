@@ -30,9 +30,8 @@ PS: d-->direcotry, f-->file(*.ipynb)
 - [x] Finish [小练习01：用requests和正则表达式提取猫眼top100榜单数据](./Chapter08-01-Exercise-of-requests-and-re.ipynb)
 - [ ] Finish [小练习02：分析Ajax请求并抓取数据（以toutiao.comw为例）](./Chapter08-02-Exercise-of-getting-data-from-ajax.ipynb)
 - [ ] Finish [小练习03：使用Selenium模拟浏览器抓取数据（以jd.com为例）](./Chapter08-03-Exercise-of-selenium.ipynb)
-- [x] Finish ['Chapter09-processing-of-scrapy'](./Chapter09-scrapy-glance/note/processing-of-scrapy.md)
-- [ ] Finish ['Chapter09-commandline-of-scrapy'](./Chapter09-scrapy-glance/note/command-line-tool.md)
-
+- [x] Finish ['Chapter09-processing-of-scrapy'](./Chapter09-scrapy-glance/notes/01-processing-of-scrapy.md)
+- [ ] Finish ['Chapter09-commandline-of-scrapy'](./Chapter09-scrapy-glance/notes/02-command-line-tool.md)
 
 ## Environment(软件环境)
 
